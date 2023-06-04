@@ -1,12 +1,13 @@
-## Hi there 👋
+frameorc is not a framework. It is a collection of libraries that help building
+web applications.
 
-<!--
+[dom](https://frameorc.github.io/doc/dom.html): JavaScript library that helps building user interfaces
+in browsers by manipulating DOM trees. Brutally simple and efficient,
+it was created with the goal of endowing a single programmer and small teams
+with formidable power.
 
-**Here are some ideas to get you started:**
+[router](https://frameorc.github.io/doc/router.html): flexible function that dynamically loads
+modules and updates the page or a component based on the current route.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[flex.css](https://frameorc.github.io/doc/flex.html): a stylesheet for nested flexible blocks. Great for
+building forms and programmatic UIs.
