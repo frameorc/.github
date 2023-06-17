@@ -11,3 +11,6 @@ modules and updates the page or a component based on the current route.
 
 [flex.css](https://frameorc.github.io/doc/flex.html): a stylesheet for nested flexible blocks. Great for
 building forms and programmatic UIs.
+
+[state](https://frameorc.github.io/doc/state.html): building block for persistent state services. Fast
+solution for durability of complex data structures.
