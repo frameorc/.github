@@ -1,6 +1,8 @@
 **[frameorc](https://github.com/frameorc/frameorc)** is not a framework. It is a collection of libraries for building
 web applications.
 
+[[Repository](https://github.com/frameorc/frameorc)] [[Documentation](https://frameorc.github.io/)]
+
 Brutally simple and efficient, it was created with the goal of endowing
 a single programmer with formidable power that extends well to teams.
 
